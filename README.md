@@ -1,5 +1,7 @@
 # 🎓 PROFE IPI - Sistema de Asistente Educativo IA
 
+[![Deployed on Vercel](https://img.shields.io/badge/deployed%20on-Vercel-000000.svg?style=flat&logo=vercel)](https://vercel.com)
+
 Sistema inteligente de asistencia educativa con reconocimiento de voz y respuestas optimizadas para el área de logística y negocios.
 
 ## ✨ Características
